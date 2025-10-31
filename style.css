@@ -1,5 +1,14 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    background-color: rgb(111, 78, 55);
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .list-pictures {
